@@ -233,8 +233,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     # PLESE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     CREDITS_TXT = """<b>
 ❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
-• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href="https://t.me/baljeet_singh1114">Hᴀʀꜱʜᴀʟ ❤️‍🔥</a>
-• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/baljeet_singh1114">Jᴏᴇʟ ᠰ TɢX</a>
+• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href="https://t.me/baljeet_singh1114">blgt ❤️‍🔥</a>
+• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/baljeet_singh1114">blgt ᠰ TɢX</a>
 • sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/baljeet_singh1114">blgt</a>
 • sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://t.me/baljeet_singh1114">blgt</a>
 • ᴘʀᴇᴍɪᴜᴍ ᴄᴏᴅᴇꜱ : <a href="https://t.me/baljeet_singh1114">blgt</a>
@@ -445,5 +445,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/baljeet_singh1114'>HP</a>
+-Dev [Owner of this bot ]<a href='https://t.me/baljeet_singh1114'>blgt</a>
 """
